@@ -1,4 +1,4 @@
-# DroneSimulationLite
+#Drone GUI
 ![](https://github.com/ilianc/DroneSimulationLight/blob/master/src/scripts/DroneSimulation2.png)
 A lighter version to visualize the simulation from gazebo. 
 ## Needed Packages
